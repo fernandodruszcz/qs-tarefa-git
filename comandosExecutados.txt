@@ -8,4 +8,8 @@ git push --set-upstream origin master
 git reflog
 git reset --hard <id>
 git branch
-
+git branch staging
+git checkout staging
+git merge staging
+git pull
+git checkout -b <nova-branch> <branch-origem>
