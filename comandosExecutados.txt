@@ -9,4 +9,3 @@ git reflog
 git reset --hard <id>
 git branch
 git branch staging
-git checkout staging
