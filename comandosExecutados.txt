@@ -10,3 +10,5 @@ git reset --hard <id>
 git branch
 git branch staging
 git checkout staging
+git merge staging
+git pull
